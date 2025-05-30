@@ -1,2 +1,12 @@
 # my-test-readingapp
-React学習を兼ねた読書記録サイトです。鋭意製作中。React.js/Next.js/Tailwind CSS/TypeScript
+
+プログラミング学習用に制作している読書記録サイトのプロジェクトです。  
+趣味でよく読む新書に限定した読書記録ツールが欲しく、制作を始めました。完全に私用。  
+スマートフォンからの閲覧を想定しているため、そのようにUIを設計しています。  
+
+現在制作中です。今は検索機能・本の詳細表示機能に取り組んでいます。
+
+## 技術スタック
+
+React.js/Next.js/Tailwind CSS/TypeScript  
+バックエンドでSupabaseを使用予定。
