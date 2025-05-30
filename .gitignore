@@ -42,3 +42,5 @@ next-env.d.ts
 
 # others
 /gitignore_elements
+/book_datas
+
